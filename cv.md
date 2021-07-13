@@ -8,9 +8,10 @@ function solution(str){
   
   for (let i = str.length-1; i >=0; i-- ){
     result +=str[i];
-  }
+    }
   return result;
-};```
+  };
+  ```
 1. From0To1 - Course of Markup
 1. Сomputer technologies in management and training, From0To1 - Course of Markup
 1. Intermediate
