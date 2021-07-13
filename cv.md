@@ -2,7 +2,7 @@
 1. **Tel**: 380962109548, **E-mail**: drta26@gmail.com, **Telegram**: MrHyde26
 1. I born and live in Kharkiv, Ukraine. Specialist with significant data entry experience striving to contribute to the success of the team through hard work. Motivated to learn, grow, always open to new experiences and technologies.
 1. HTML, CSS, SCSS, JS, C#, Visual Basic, Git, Visual St
-1.  ```javascript
+1.  ```
 function solution(str){
   let result = '';
   
